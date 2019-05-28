@@ -48,10 +48,12 @@
     border-left: 1px solid black;
   }
 
-
+  #main-content {
+    margin: 10px;
+  }
+  
   .section-container {
     background-color:  #b3b3b3;
-    margin: 1%;
     color: black;
     overflow: hidden;
     padding: 10px;
