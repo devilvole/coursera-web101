@@ -21,6 +21,10 @@
     line-height: .75;
   }
 
+  .collapsable-nav {
+      margin: 0%;
+  }
+
   .navbar-nav > li > a{
     font-size: 1.2em;
     font-weight: bold;
