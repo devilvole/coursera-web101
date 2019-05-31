@@ -24,5 +24,6 @@
   // (Note, Step 6 will be done in the SpeakGoodBye.js file.)
   // xxxx.xxxx = helloSpeaker;
 
+  console.log(window);
   window.helloSpeaker = helloSpeaker;
 })(window);
